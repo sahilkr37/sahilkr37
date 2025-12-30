@@ -1,6 +1,5 @@
 ## Hey, I’m Sahil 👋
 
-Becoming an Engineer
 
 - Working with MERN stack
 - Focused on core computer science concepts and problem solving
